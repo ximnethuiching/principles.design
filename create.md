@@ -21,3 +21,6 @@ Start with a warm-up excercrise.
   * There's no such thing as a bad idea
   * Don't spend too long on one idea, activities will be within time constraints
   * Everyone in the room adds value, make sure everyone contributes and is listened to
+
+### Remember
+You're creating principles not set rules. Principles allow for thought and innovation. Rules are more restrictive and don't always convey the principles behind them.
