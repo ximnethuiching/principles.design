@@ -1,0 +1,16 @@
+---
+layout: null
+---
+
+{
+	 "origin":[
+     "Check out #examples#",
+     "Take a look at #examples#",
+     "Have you seen #examples#?"
+		],
+		"examples": [
+      {% for example in site.examples %}
+			"{{ example.title | xml_escape }} by {{ example.author }} https://principles.design{{ example.url }}"
+		]{% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+}
